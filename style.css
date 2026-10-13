@@ -485,6 +485,7 @@ QUALITY WORK ↓
 }
 
 .quality__img {
+  width: 100%;
   z-index: 1;
 }
 .quality__img--wrapper {
